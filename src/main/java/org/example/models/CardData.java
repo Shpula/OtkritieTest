@@ -10,4 +10,5 @@ public class CardData{
     public String tarif;
     public String branchID;
     public String overdueDebtAmount;
+
 }

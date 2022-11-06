@@ -1,0 +1,73 @@
+{
+  "cards": [
+    {
+      "balance": [
+        {
+          "type": "Free",
+          "charCode": "RUR",
+          "amount": "0.55"
+        },
+        {
+          "type": "Available",
+          "charCode": "RUR",
+          "amount": "0.55"
+        },
+        {
+          "type": "Blocked",
+          "charCode": "RUR",
+          "amount": "0"
+        }
+      ],
+      "cardData": {
+        "cardHolderName": "GERMAN ELESKIN",
+        "cardID": "11111111",
+        "virtualCardNum": "11111111111V0000",
+        "status": {
+          "statusMsg": "действующая",
+          "statusCode": "00",
+          "status3C": "NORMAL",
+          "plasticStatus": "Active"
+        },
+        "cardType": "МИР Virtual для соц. выплат",
+        "paySystem": "МИР",
+        "tarif": "Opencard Зарплатная",
+        "branchID": "044525297",
+        "overdueDebtAmount": "0"
+      }
+    },
+    {
+      "balance": [
+        {
+          "type": "Free",
+          "charCode": "RUR",
+          "amount": "1397.55"
+        },
+        {
+          "type": "Available",
+          "charCode": "RUR",
+          "amount": "245.55"
+        },
+        {
+          "type": "Blocked",
+          "charCode": "RUR",
+          "amount": "1152"
+        }
+      ],
+      "cardData": {
+        "cardHolderName": "GERMAN ELESKIN",
+        "cardID": "15220178",
+        "virtualCardNum": "11111111111V2222",
+        "status": {
+          "statusMsg": "действующая",
+          "statusCode": "00",
+          "status3C": "NORMAL",
+          "plasticStatus": "Active"
+        },
+        "cardType": "Mastercard World",
+        "paySystem": "Master Card",
+        "tarif": "Opencard Зарплатная",
+        "branchID": "044525297"
+      }
+    }
+  ]
+}
